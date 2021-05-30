@@ -1,4 +1,4 @@
-### Hi there 👋
+<img width="1920px" src="https://i.imgur.com/IJBZBtF.png"/>
 
 <!--
 **marianaaoribeiro/marianaaoribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
