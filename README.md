@@ -1,5 +1,6 @@
 <img width="1920px" src="https://i.imgur.com/IJBZBtF.png"/>
 
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaaoribeiro&layout=compact&show_icons=true&title_color=4B0082&icon_color=4B0082" />
 <!--
 **marianaaoribeiro/marianaaoribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
